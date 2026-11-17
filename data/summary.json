@@ -1,0 +1,82 @@
+{
+ "n_total": 167,
+ "n_failed": 3,
+ "n_creators": 21,
+ "measured": [
+  "2026-11-17"
+ ],
+ "platforms": {
+  "instagram": {
+   "name": "Instagram Reels",
+   "n": 57,
+   "median_duration": 37.99,
+   "first_cut_median": 2.54,
+   "cut_within_1s": 18,
+   "cut_within_2s": 30,
+   "cut_within_3s": 47,
+   "no_cut": 19,
+   "cuts_first3_median": 0,
+   "shot_median": 2.16,
+   "cuts_per_min_median": 25.5,
+   "sound_from_start": 95,
+   "talking": 70,
+   "speech_2s": 90,
+   "text_first_frame": 54,
+   "cross_posted": 49
+  },
+  "tiktok": {
+   "name": "TikTok",
+   "n": 51,
+   "median_duration": 36.53,
+   "first_cut_median": 2.67,
+   "cut_within_1s": 14,
+   "cut_within_2s": 29,
+   "cut_within_3s": 53,
+   "no_cut": 8,
+   "cuts_first3_median": 1,
+   "shot_median": 3.07,
+   "cuts_per_min_median": 16.9,
+   "sound_from_start": 96,
+   "talking": 75,
+   "speech_2s": 82,
+   "text_first_frame": 63,
+   "cross_posted": 45
+  },
+  "youtube": {
+   "name": "YouTube Shorts",
+   "n": 59,
+   "median_duration": 39.51,
+   "first_cut_median": 2.53,
+   "cut_within_1s": 10,
+   "cut_within_2s": 27,
+   "cut_within_3s": 58,
+   "no_cut": 10,
+   "cuts_first3_median": 1,
+   "shot_median": 2.27,
+   "cuts_per_min_median": 25.4,
+   "sound_from_start": 95,
+   "talking": 81,
+   "speech_2s": 81,
+   "text_first_frame": 58,
+   "cross_posted": 47
+  },
+  "all": {
+   "name": "All",
+   "n": 167,
+   "median_duration": 37.99,
+   "first_cut_median": 2.57,
+   "cut_within_1s": 14,
+   "cut_within_2s": 29,
+   "cut_within_3s": 53,
+   "no_cut": 13,
+   "cuts_first3_median": 1,
+   "shot_median": 2.27,
+   "cuts_per_min_median": 25.2,
+   "sound_from_start": 95,
+   "talking": 75,
+   "speech_2s": 84,
+   "text_first_frame": 58,
+   "cross_posted": 47
+  }
+ }
+}
